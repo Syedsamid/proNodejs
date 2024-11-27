@@ -1,0 +1,4 @@
+Data read from input.txt: This is samid and Know I am learnning hte nodeJs.
+
+. 
+Date created Wed Nov 27 2024 17:29:42 GMT+0000 (Coordinated Universal Time)
